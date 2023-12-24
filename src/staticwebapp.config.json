@@ -1,4 +1,4 @@
 {
-  "route": "/index.html",
-  "allowedRoles": ["authenticated"]
+  "route": "*",
+  "rewrite": "/test"
 }
